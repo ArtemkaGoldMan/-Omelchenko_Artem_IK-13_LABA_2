@@ -1,0 +1,16 @@
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.exe
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.deps.json
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.runtimeconfig.json
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.runtimeconfig.dev.json
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.dll
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\RealLABA2.pdb
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.AssemblyInfo.cs
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.csproj.CopyComplete
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.dll
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.pdb
+C:\Users\artem\source\repos\RealLABA2\RealLABA2\obj\Debug\netcoreapp3.1\RealLABA2.genruntimeconfig.cache
